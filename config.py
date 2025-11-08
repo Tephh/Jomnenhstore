@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Bot Configuration
-BOT_TOKEN = os.getenv('BOT_TOKEN', '8531374089:AAH9ES_O_d1PyX-AJ5s3r-Vlb8js1DoxuXg')
+BOT_TOKEN = os.getenv('BOT_TOKEN', '8531374089:AAExQ3nQQZbf5AQ0LCtCuX8Pby3l6fhhyGM')
 ADMIN_USERNAME = os.getenv('ADMIN_USERNAME', 'tephh')
 ADMIN_PASSWORD = os.getenv('ADMIN_PASSWORD', 'Tep#@54321')
 
